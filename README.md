@@ -1,2 +1,2 @@
 # tfe_scripts
-All scripts for our TFE paper are available via this repository.
+This repository archives scripts used in Satoh et al. 2022 NatCommns.
