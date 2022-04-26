@@ -22,6 +22,7 @@ Scripts and their functions are listed below.
 18. estimate_average_Qvalue_for_reviewer3.py  <-- makes SupFig20
 19. find_the_best_fittingcurve.v2.py   		     <-- makes SupFig21&22
 
-Note that these scripts are not completely cleaned up so that a part of the scripts contain processes, such as methodological or parameter sensitivity tests.
-
+Note
+- these scripts are not completely cleaned up so that a part of the scripts contain processes, such as methodological or parameter sensitivity tests.
+- Several script names and codes include the term, TPCD. TFE (Time of the First Emergence of unprecedented regional drought condition) was called TPCD (Timing of Perception Change regarding Drought) in the early stage of the study.
 
